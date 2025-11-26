@@ -40,5 +40,3 @@ npx expo run:android
 * Gustavo Serra Maia Carneiro de Campos
 
 ---
-
-Licença: defina a desejada (ex.: MIT).
