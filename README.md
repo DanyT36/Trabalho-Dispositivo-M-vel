@@ -1,4 +1,4 @@
-# App Agendamento — Imobiliária (resumido)
+# App Agendamento — Imobiliária
 
 Aplicativo mobile em **React Native + Expo** para agendamento de visitas a imóveis, conciliando horários de visitantes e funcionários.
 
